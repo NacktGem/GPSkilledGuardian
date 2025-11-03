@@ -10,7 +10,6 @@ pydantic-settings>=2.1.0
 
 # Cryptocurrency Payment Processing
 bit>=0.8.0  # Bitcoin library
-litecoin>=0.1.1  # Litecoin support
 requests>=2.31.0
 
 # Database
